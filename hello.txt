@@ -1,2 +1,5 @@
 Hello!
 Here is an upstream commit
+New branch text
+Here is a master update
+newnewbranch update
